@@ -78,6 +78,9 @@ img {
 .adr-page-header {
     font-style: normal;
 }
+.menu-adress-item {
+    margin-right: 40px;
+}
 .menu-adress-link {
     font-weight: 400;
     font-size: 16px;
