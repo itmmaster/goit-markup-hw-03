@@ -37,6 +37,10 @@ img {
 /* =========== /Common styles =========== */
 
 /* =========== Page Header styles =========== */
+.page-header {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -46,6 +50,7 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
+    align-items: center;
 } 
 .page-nav {
     display: flex;
