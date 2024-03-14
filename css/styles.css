@@ -50,10 +50,11 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
-    align-items: center;
+    
 } 
 .page-nav {
     display: flex;
+    align-items: center;
 }
 .page-header-container {
     display: flex;
