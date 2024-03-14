@@ -49,6 +49,10 @@ img {
 .page-nav {
     display: flex;
 }
+.page-header-container {
+    display: flex;
+    justify-content: space-between;
+}
 
 .text-color {
     color: #2e2f42;
