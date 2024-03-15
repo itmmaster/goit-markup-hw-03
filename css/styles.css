@@ -224,6 +224,10 @@ button {
 /* =========== /Our Team Section styles =========== */
 
 /* =========== Our Portfolio Section styles =========== */
+.our-portfolio-sect {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 .our-portfolio-title {
     font-weight: 700;
     font-size: 36px;
