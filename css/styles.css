@@ -32,6 +32,9 @@ button {
 /* =========== /Common styles =========== */
 
 /* =========== Page Header styles =========== */
+.page-header {
+    border-bottom: 1px solid #e7e9fc;
+}
 .header-cont {
     display: flex;
     align-items: center;
