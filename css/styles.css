@@ -154,7 +154,7 @@ button {
 }
 .options-list-item {
     width: calc((100%-72px)/4);
-
+}
 .options-list-title {
     font-weight: 500;
     color: #2e2f42;
