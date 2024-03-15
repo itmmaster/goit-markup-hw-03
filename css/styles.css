@@ -275,6 +275,7 @@ button {
 /* =========== Footer styles =========== */
 .page-footer {
     background-color: #2e2f42;
+    padding: 100px 0;
 }
 .page-footer-link {
     font-family: "Raleway", sans-serif;
@@ -284,6 +285,7 @@ button {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color:#4d5ae5;
+    margin: 0;
 }
 .text-color-footer {
     color: #f4f4fd;
@@ -295,5 +297,6 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+    width: 264px;
 }
 /* =========== /Footer styles =========== */
